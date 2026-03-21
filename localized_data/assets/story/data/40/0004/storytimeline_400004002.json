@@ -1,0 +1,60 @@
+{
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hola, estoy aqui para explicar como será el<n>\nentrenamiento para la Twinkle Star Climax."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¿Te gustaría una explicación?",
+            "choice_data_list": [
+                "Si, por favor.",
+                "No, gracias."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¿Que te gustaria que te explicara?"
+        },
+        {
+            "name": "Monologo",
+            "text": "Me gustaria saber mas acerca de...",
+            "choice_data_list": [
+                "Las metas de carrera",
+                "La TS Climax",
+                "La Tienda Pro",
+                "Los premios a la mejor Umamusume",
+                "Eso es todo lo que necesito saber."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ah si, tus metas de carrera."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Estarás entrenando con la meta final<n>de\ningresar a la TS Climax."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "El primer paso es inscribirte en carreras y<n>\nconseguir Puntos de Resultado según tu<n>\nrendimiento. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Necesitaras conseguir un cierto número de<n>\nPuntos de Resultado cada año, aunque la<n>\ncantidad puede variar dependiendo del año.",
+            "color_text_info_list": [
+                "cada año",
+                "aunque la cantidad puede variar",
+                "dependiendo del año"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Si no consigues suficientes Puntos<n>de Resultado\npara la segunda mitad de Diciembre de cada<n>año,\n¡tu carrera finalizará!",
+            "color_text_info_list": [
+                "para la segunda mitad de Diciembre de cada año",
+                "tu carrera finalizará"
+            ]
+        }
+    ]
+}
