@@ -55,6 +55,131 @@
                 "para la segunda mitad de Diciembre de cada año",
                 "tu carrera finalizará"
             ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Buenos resultados en carreras clasificadas\nde mayor grado te<n>otorgarán\nun mayor numero de Puntos de<n>Resultado.",
+            "color_text_info_list": [
+                "carreras clasificadas de mayor grado",
+                "mayor numero de Puntos de Resultado."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Además, ¡a veces te enfrentarás a<n>oponentes\nmas fuertes durante las<n>carreras!",
+            "color_text_info_list": [
+                "oponentes mas fuertes"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Estas corredoras aparecerán como \"rivales\" en<n>la\npantalla de carreras.",
+            "color_text_info_list": [
+                "\"rivales\""
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Puedes incluso obtener pistas de habilidad al<n>derrotar un\nrival, ¡asi que da lo mejor para<n>tomar la victoria!",
+            "color_text_info_list": [
+                "al derrotar un rival",
+                "Puedes incluso obtener pistas de habilidad"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Es mas, a diferencia de lo que puedas estar<n>acostumbrado,\nen esta ocasión no hay metas<n>especificas para cada\nUmamusume.",
+            "color_text_info_list": [
+                "no hay metas especificas para cada Umamusume"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Esto quiere decir que puedes ingresar en una<n>\nmayor variedad de carreras, ¡incluyendo algunas<n>\nen las que no podias entrar antes!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Tendras que usar tu criterio para<n>elegir las\ncarreras mas adecuadas para tu<n>aprendiz. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Durante tu carrera, puede que te encuentres con<n>\nnuevos vistazos de la vida diaria en la academia. ¡Estoy<n>\nsegura que eso sera divertido!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Esto concluye mi resumen de las metas de<n>carrera. ¿Hay\nalgo mas que te gustaria<n>saber?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¿Quieres saber mas acerca de la TS<n>Climax?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Si consigues el numero requerido de<n>Puntos de Resultado\ndurante cada intervalo de carrera,<n>podrás entrar\na la TS Climax.",
+            "color_text_info_list": [
+                "Puntos de Resultado"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "La TS Climax, que consiste en tres carreras<n>consecutivas,\n!es un evento muy especial para<n>las corredoras!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Despues de cada carrera, se otorgan Puntos<n>\nde Victoria segun su clasificación, y la<n>corredora con\nmas puntos despues de las tres<n>carreras es coronada como\nla ganadora. ♪",
+            "color_text_info_list": [
+                "Puntos de Victoria",
+                "mas puntos despues de las tres carreras",
+                "coronada como la ganadora"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "El reparto de corredoras en cada carrera<n>será\nel mismo, pero se volverán mas<n>fuertes mientras\nprogresas."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¡Entrena a tu corredora por una chance de<n>\ningresar a la TS Climax, y compite para ser la<n>\nGran Estrella!",
+            "color_text_info_list": [
+                "Gran Estrella"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Esto concluye mi resumen de la TS<n>Climax. ¿Hay\nalgo mas que te gustaria<n>saber?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¿Quieres saber mas acerca de la Tienda Pro<n>\ndisponible durante tu carrera?",
+            "color_text_info_list": [
+                "Tienda Pro"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ademas de los Puntos de Resultado, ¡las carreras<n>\nte premiaran con fichas!",
+            "color_text_info_list": [
+                "Puntos de Resultado",
+                "fichas"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Mientras mejor termines, ganarás mas<n>\nfichas. Estas fichas pueden gastarse en<n> la\nTienda Pro. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¡La Tienda Pro ofrece una variedad de objetos<n>\npara entrenamiento a cambio de fichas!",
+            "color_text_info_list": [
+                "objetos para entrenamiento"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Estos objetos pueden aumentar los atributos,<n>\nrecuperar Energía, aumentar la<n>eficiencia de los\nentrenamientos, ¡y mas!"
+        },
+        {
+            "name": "Tazuna Hayakawa"
         }
     ]
 }
