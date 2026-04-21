@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Tazuna Hayakawa",
-            "text": "Hola, estoy aqui para explicar como será el<n>\nentrenamiento para la Twinkle Star Climax."
+            "text": "Hola, estoy aqui para explicarte como será el<n>\nentrenamiento para la Twinkle Star Climax."
         },
         {
             "name": "Tazuna Hayakawa",
@@ -179,7 +179,118 @@
             "text": "Estos objetos pueden aumentar los atributos,<n>\nrecuperar Energía, aumentar la<n>eficiencia de los\nentrenamientos, ¡y mas!"
         },
         {
-            "name": "Tazuna Hayakawa"
+            "name": "Tazuna Hayakawa",
+            "text": "Aprovecha al maximo la Tienda<n>Pro mientras\nentrenas a tu aprendiz. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Por cierto, la Tienda Pro solo estará<n>\ndisponible despues de que tu aprendíz<n>\ncomplete su carrera de Debut en su primer año.",
+            "color_text_info_list": [
+                "despues de que tu aprendíz complete su carrera de Debut"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Tambien, no te olvides que la selección<n>de objetos\nen venta cambiará despues<n>de cierto tiempo.",
+            "color_text_info_list": [
+                "selección de objetos en venta",
+                "cambiará despues de cierto tiempo"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Si hay un objeto que te llama la atención,<n>\nte recomiendo conseguir suficientes fichas<n>\ny comprarlo mientras puedas."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Además, cuando cambia la selección de<n>\nobjetos, a veces hay ofertas donde puedes<n>\nconseguir objetos mas baratos de<n>\nde lo habitual.",
+            "color_text_info_list": [
+                "a veces hay ofertas",
+                "mas baratos de lo habitual"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "He escuchado que despues de algunas<n>\ncarreras, se agregan objetos extra a<n>\nla tienda.",
+            "color_text_info_list": [
+                "se agregan objetos extra",
+                "algunas carreras"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Asi que no te olvides de revisar<n>\nla Tienda Pro cada vez que puedas. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Esto concluye mi resumen de la<n>\nTienda Pro. ¿Hay algo mas que te gustaria<n>\nsaber?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¿Quieres saber mas sobre los Premios<n>\na la Mejor Umamusume?",
+            "color_text_info_list": [
+                "Premios a la Mejor Umamusume"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "La URA presenta estos premios para<n>\nla Umamusume que se considera como<n>\nla mejor en sus respectivos años.",
+            "color_text_info_list": [
+                "URA"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Una corredora destacada del<n>\nprimer, segundo y tercer año es elegida<n>\npara recibir estos honores.",
+            "color_text_info_list": [
+                "primer, segundo y tercer año"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "La selección ocurre a finales de Diciembre<n>\nde cada año, despues de que hayan finalizado<n>\ntodas las carreras anuales.",
+            "color_text_info_list": [
+                "finales de Diciembre de cada año"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Las receptoras se eligen respecto a muchos<n>\nfactores, incluyendo los resultados de carreras y<n>\nel número de fans para ese año. ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¡Asegurate de entrenar duro, hacer buen uso<n>\nde los objetos de la tienda y corre<n>\ntantas carreras como puedas!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Esto concluye mi resumen acerca de los<n>\nPremios a la Mejor Umamusume. ¿Hay algo<n>\nmas que te gustaria saber?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¿De verdad?",
+            "choice_data_list": [
+                "Si.",
+                "Pensandolo mejor..."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "¡Muy bien! ♪ Por sea caso, he preparado<n>\nun resumen de todo lo que necesitas<n>\nsaber."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Si necesitas un recordatorio, solo pulsa el<n>\nbotón \"i\" en la parte superior izquierda de<n>\nla pantalla.",
+            "color_text_info_list": [
+                "botón \"i\""
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Bien, te deseo la mejor de las suertes. ¡Estaré<n>\napoyandote!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Okay. Bien, te deseo la mejor de las suertes.<n>\n¡Estaré apoyandote!"
         }
     ]
 }
